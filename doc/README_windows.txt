@@ -1,4 +1,4 @@
-SuperTurbostake (SuperTurbostake) 0.4.0 BETA
+SuperTurbostake (SuperTurbostake) 0.4.2 BETA
 
 Copyright (c) 2011-2014 SuperTurbostake (SuperTurbostake) Developers
 Distributed under the MIT/X11 software license, see the accompanying
