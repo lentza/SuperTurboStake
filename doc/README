@@ -1,4 +1,4 @@
-SuperTurbostake (SuperTurbostake) 0.4.0 BETA
+SuperTurbostake (SuperTurbostake) 0.4.2 BETA
 
 Copyright (c) 2011-2014 SuperTurbostake (SuperTurbostake) Developers
 Distributed under the MIT/X11 software license, see the accompanying
@@ -39,7 +39,7 @@ SuperTurbostaked backupwallet <destination_backup_file>
 Then shutdown SuperTurbostaked by
 SuperTurbostaked stop
 Uninstall v0.3 client, download and install v0.4 client.
-Start up the new SuperTurbostaked (0.4.0).
+Start up the new SuperTurbostaked (0.4.2).
 If upgrade is performed after upgrade deadline then blockchain re-download
 is required.
 
